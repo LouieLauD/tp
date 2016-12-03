@@ -1,0 +1,11 @@
+<?php
+ if($_SERVER['REQUEST_METHOD'] == 'GET'){//表单数据提交的方式，默认是GET
+
+  }
+ 
+ [REQUEST_TIME] => 1480738717 //服务器当前时间
+  
+ [HTTP_X_REQUESTED_WITH] => XMLHttpRequest  //AJAX信息
+  
+  
+?>  
